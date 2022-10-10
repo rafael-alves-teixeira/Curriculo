@@ -8,6 +8,12 @@
 body {
     /* background-color: #70c6c7;  #06060e */
     background: linear-gradient(to bottom, #100a1c, #7a0bc0, #ed4f0b);
+
+}
+
+body a {
+    text-decoration: none;
+    color: inherit;
 }
 .resume-contents {
     min-height: 100vh;
