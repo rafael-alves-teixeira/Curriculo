@@ -166,10 +166,11 @@ body a {
 .awards-company-name {
     font-size: 25px;
     font-weight: bold;
-    text-transform: uppercase;
     letter-spacing: 1px;
     color: #70c6c7;
     padding-bottom: .4rem;
+    border-left: 3px solid #fc6a54;
+    padding-left: 15px;
 }
 .exp-time-period,
 .educationp-time-period,
@@ -177,16 +178,20 @@ body a {
     font-size: 18px;
     letter-spacing: 1px;
     line-height: 2rem;
+    border-left: 3px solid #fc6a54;
+    padding-left: 15px;
 }
 .exp-position,
 .education-subject,
 .awards-name {
     font-size: 25px;
     font-weight: bold;
-    text-transform: uppercase;
     letter-spacing: 1px;
     color: #70c6c7;
     padding-bottom: .4rem;
+    padding-left: 6px ;
+    text-indent: 15px;
+    border-left: 3px solid #fc6a54;
 }
 .exp-desc,
 .education-desc,
@@ -195,7 +200,8 @@ body a {
     letter-spacing: 1px;
     line-height: 1.5rem;
     border-left: 3px solid #fc6a54;
-    padding-left: 5px;
+    padding-left: 18px;
+    border-bottom: 200px;
 }
 
 
