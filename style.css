@@ -171,6 +171,7 @@ body a {
     padding-bottom: .4rem;
     border-left: 3px solid #fc6a54;
     padding-left: 15px;
+    text-shadow: -4px 4px 9px #160227;
 }
 .exp-time-period,
 .educationp-time-period,
@@ -192,6 +193,7 @@ body a {
     padding-left: 6px ;
     text-indent: 15px;
     border-left: 3px solid #fc6a54;
+    text-shadow: -4px 4px 9px #160227;
 }
 .exp-desc,
 .education-desc,
